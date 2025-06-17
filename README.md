@@ -27,8 +27,8 @@
 
 -> Enable Activation.
 
--> Enter your API SECRET from your CloudLinkd account.
+-> Enter your API KEY from your CloudLinkd account.
 
--> Enter your WHATSAPP ACCOUNT UNIQUE ID from your CloudLinkd account.
+-> Enter your WHATSAPP ACCOUNT SENDER ID from your CloudLinkd account.
 
 -> Click on Save.
